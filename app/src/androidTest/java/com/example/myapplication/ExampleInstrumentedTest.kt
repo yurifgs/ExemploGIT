@@ -17,6 +17,8 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     
     var nomedavariavel : Int = 0
+    var outradavariavel : Int = 0
+
     @Test
     fun useAppContext() {
         // Context of the app under test.
