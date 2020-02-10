@@ -15,6 +15,8 @@ import org.junit.Assert.*
  */
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
+    
+    var nomedavariavel : Int = 0
     @Test
     fun useAppContext() {
         // Context of the app under test.
